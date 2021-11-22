@@ -1,2 +1,2 @@
 # Games
-Mini projects I sometimes do for fun
+Mini projects Ido for fun
